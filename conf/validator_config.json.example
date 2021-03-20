@@ -1,0 +1,8 @@
+{
+  "nodePublicKey": "xxx",
+  "blsPubKey": "xxx",
+  "nodeAddress": "http://<user>:<passwd>@domain3",
+  "nodePort": "16789",
+  "nodeRpcPort": "6789",
+  "certificate": "/path/to/ssl_ca"
+}
